@@ -16,6 +16,7 @@ All my prework notes studies here.
 - [[Chapter 5 - Applied IPv4 Subnetting]] introduces you to IPv4 subnetting and applying **Variable Length Subnet Masking** (**VLSM**) on a network.
 - [[Chapter 6 - Exploring Network Protocols and Services]] explores the roles and functions of common networking protocols and services.
 - [[Chapter 7 - Data Center Architecture and Cloud Computing]] introduces you to popular network architectures that are used within data center environments and cloud computing technologies.
+#### Network Implementation
 - [[Chapter 8 - Networking Devices]] introduces you to the roles and functions of common networking devices and security appliances.
 - [[Chapter 9 - Routing and Switching Concepts]] explores dynamic routing protocols, static routing concepts, and switching concepts to improve the performance and scalability of a network.
 - [[Chapter 10 - Exploring Wireless Standards and Technologies]] introduces you to wireless networking technologies and security standards.
