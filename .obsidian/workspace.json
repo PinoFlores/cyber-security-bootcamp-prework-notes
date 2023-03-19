@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "210866296afd784c",
   "lastOpenFiles": [
+    "1. Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md",
     "README.md",
     "1..md",
     "1. Networking/Chapter 2 - Network Topologies and Connections.md",
@@ -176,7 +177,6 @@
     "1. Networking/Chapter 6 - Exploring Network Protocols and Services.md",
     "2. LInux",
     "1. Networking/Chapter 3 - Ethernet Technology and Virtualization.md",
-    "1. Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md",
     "1. Networking"
   ]
 }
