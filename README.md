@@ -20,6 +20,7 @@ All my prework notes studies here.
 - [[Chapter 8 - Networking Devices]] introduces you to the roles and functions of common networking devices and security appliances.
 - [[Chapter 9 - Routing and Switching Concepts]] explores dynamic routing protocols, static routing concepts, and switching concepts to improve the performance and scalability of a network.
 - [[Chapter 10 - Exploring Wireless Standards and Technologies]] introduces you to wireless networking technologies and security standards.
+#### Network Operations
 - [[Chapter 11 - Assuring Network Availability]] introduces you to best practices to ensure the availability and monitoring of network resources and assets.
 - [[Chapter 12 - Organizational Documents and Policies]] focuses on exploring common organizational plans, procedures, and security policies to prevent network and security incidents.
 - [[Chapter 13 - High Availability and Disaster Recovery]] explores high availability concepts to ensure critical network resources are always accessible, and describes disaster recovery concepts.
