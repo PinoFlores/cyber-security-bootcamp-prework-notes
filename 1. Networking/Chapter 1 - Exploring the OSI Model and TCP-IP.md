@@ -16,6 +16,14 @@ This chapter will cover:
 
 A network is defined as having two or more computing devices interconnected, using a set of communication protocols (rules) that allow them to share a resource between themeselves.
 
+#### What is a resource?
+
+A resource can be anything, such as a file, a multiplayer game on an online server, and even a network-connected printer.
+
+
+
+
+
 
 
 #network 
