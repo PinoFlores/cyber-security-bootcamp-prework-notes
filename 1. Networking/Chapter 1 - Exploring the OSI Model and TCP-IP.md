@@ -40,7 +40,15 @@ There are many network protocols, each of which has a different purpose and char
 
 ---
 
-## Exploring the OSI model 
+## Models in Networking
+
+### What is a Model in networking?
+
+
+
+
+
+#model
 
 
 
