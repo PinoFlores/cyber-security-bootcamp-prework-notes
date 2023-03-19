@@ -12,7 +12,7 @@ All my prework notes studies here.
 - [[Chapter 3 - Ethernet Technology and Virtualization]] introduces you to Ethernet standards and technologies, cable types, and virtual networking concepts.
 - [[Chapter 4 - Understanding IPv4 and IPv6 Addressing]] introduces you to both IPv4 and IPv6 addressing structures and the types of IP addresses found on a network.
 - [[Chapter 5 - Applied IPv4 Subnetting]] introduces you to IPv4 subnetting and applying **Variable Length Subnet Masking** (**VLSM**) on a network.
-- [[Chapter 6 - Exploring Network Protocols and Services]]
+- [[Chapter 6 - Exploring Network Protocols and Services]] explores the roles and functions of common networking protocols and services.
 - [[Chapter 7 - Data Center Architecture and Cloud Computing]]
 - [[Chapter 8 - Networking Devices]] 
 - [[Chapter 9 - Routing and Switching Concepts]] 
