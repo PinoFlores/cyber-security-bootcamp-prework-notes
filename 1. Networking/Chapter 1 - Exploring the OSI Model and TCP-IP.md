@@ -42,8 +42,17 @@ There are many network protocols, each of which has a different purpose and char
 
 ## Models in Networking
 
+Let's explore first about networking models.
+
 ### What is a Model in networking?
 
+In networking, a model refers to a standardized approach to organizing and understanding how differents **network protocols** and technologies work together to facilitate communication between devices.
+
+#### Most commonly used Models
+
+There are severals models used in networking, but the most commonly used are:
+- OSI
+- TCP/IP
 
 
 
