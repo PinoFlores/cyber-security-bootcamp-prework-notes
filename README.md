@@ -7,6 +7,7 @@ All my prework notes studies here.
 
 ### Networking
 
-- [[Chapter 1 - Exploring the OSI Model and TCP-IP]] Exploring the OSI Model and TCP/IP,_ introduces you to common networking models used to define how systems exchange messages over a network.
+- [[Chapter 1 - Exploring the OSI Model and TCP-IP]] Exploring the OSI Model and TCP/IP, introduces you to common networking models used to define how systems exchange messages over a network.
+- 
 
 
