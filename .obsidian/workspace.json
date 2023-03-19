@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "d948fc759b75964b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Networking/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9cf4e04ecfaa2613",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Chapter 2 - Network Topologies and Connections.md",
+                "file": "1. Networking/Chapter 2 - Network Topologies and Connections.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md",
+                "file": "1. Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1. Networking/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1. Networking/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1. Networking/Untitled.md"
               }
             }
           },
@@ -178,12 +191,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "210866296afd784c",
+  "active": "d948fc759b75964b",
   "lastOpenFiles": [
-    "Networking/Chapter 2 - Network Topologies and Connections.md",
     "README.md",
+    "1. Networking/Untitled.md",
+    "1. Networking/Chapter 2 - Network Topologies and Connections.md",
     "Untitled",
-    "Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md",
-    "Networking"
+    "1. Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md",
+    "1. Networking"
   ]
 }
