@@ -20,10 +20,11 @@ A network is defined as having two or more computing devices interconnected, usi
 
 A resource can be anything, such as a file, a multiplayer game on an online server, and even a network-connected printer.
 
+#### What is a network protocol?
 
 
 
 
 
 
-#network #protocol #tcp/ip #osi #model
+#network #protocol #tcp/ip #osi #model 
