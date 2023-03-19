@@ -26,4 +26,4 @@ A resource can be anything, such as a file, a multiplayer game on an online serv
 
 
 
-#network #protocol #tcp/ip #osi
+#network #protocol #tcp/ip #osi #model
