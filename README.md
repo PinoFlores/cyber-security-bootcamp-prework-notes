@@ -20,9 +20,9 @@ All my prework notes studies here.
 - [[Chapter 11 - Assuring Network Availability]] introduces you to best practices to ensure the availability and monitoring of network resources and assets.
 - [[Chapter 12 - Organizational Documents and Policies]] focuses on exploring common organizational plans, procedures, and security policies to prevent network and security incidents.
 - [[Chapter 13 - High Availability and Disaster Recovery]] explores high availability concepts to ensure critical network resources are always accessible, and describes disaster recovery concepts.
-- [[Chapter 15 - Exploring Cyberattacks and Threats]] 
-- [[Chapter 15 - Exploring Cyberattacks and Threats]] 
-- [[Chapter 16 - Implementing Network Security]] 
-- [[Chapter 17 - Network Troubleshooting]] 
-- [[Chapter 18 - Practice Exam]]
+- [[Chapter 14 - Network Security Concepts]] explores the need for information security, authentication systems, and risk management within organizations.
+- [[Chapter 15 - Exploring Cyberattacks and Threats]] focuses on various types of wired, wireless, and human-based cyberattacks and threats.
+- [[Chapter 16 - Implementing Network Security]] explores best practices for implementing countermeasures and mitigation techniques to prevent cyberattacks and threats.
+- [[Chapter 17 - Network Troubleshooting]] provides troubleshooting methodologies for detecting and resolving issues on wired and wireless networks using both hardware- and software-based tools.
+- [[Chapter 18 - Practice Exam]] provides a series of practice exercises to help reinforce your learning while preparing for the official certification exam.
 
