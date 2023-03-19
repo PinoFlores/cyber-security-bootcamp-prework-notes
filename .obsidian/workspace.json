@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#OSI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d9d20e8e4752fad",
+  "active": "37add5bd2e6d98b6",
   "lastOpenFiles": [
     "README.md",
     "1. Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md",

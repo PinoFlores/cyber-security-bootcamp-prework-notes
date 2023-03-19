@@ -1,6 +1,6 @@
 
 
-This chapter will cover:
+**This chapter will cover:**
 - The need for a networking models
 - Exploring the OSI model
 - Understanding the TCP/IP 
@@ -16,9 +16,12 @@ This chapter will cover:
 
 A network is defined as having two or more computing devices interconnected, using a set of communication protocols (rules) that allow them to share a resource between themeselves.
 
+#network 
+
 #### What is a resource?
 
 A resource can be anything, such as a file, a multiplayer game on an online server, and even a network-connected printer.
+
 
 #### What is a network protocol?
 
@@ -26,11 +29,23 @@ A network protocol is simply the **rules and guidelines** that are used by a dev
 
 There are many network protocols, each of which has a different purpose and characteristic.
 
+#network-protocol
+
 
 #### TCP/IP Quick notes
 
 **TCP/IP** is considered to be the universal language of communication within the networking industry.
 
+#TCP/IP 
+
+---
+
+## Exploring the OSI model 
 
 
-#network #protocol #TCP/IP #OSI #model 
+
+
+#OSI #model 
+
+
+
