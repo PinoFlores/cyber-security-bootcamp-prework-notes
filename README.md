@@ -8,7 +8,7 @@ All my prework notes studies here.
 ### 1. Networking
 
 - [[Chapter 1 - Exploring the OSI Model and TCP-IP]] Exploring the OSI Model and TCP/IP, introduces you to common networking models used to define how systems exchange messages over a network.
-- [[Chapter 2 - Network Topologies and Connections]] explores popular networking designs, types, and service provider links. [Docs](./1. Networking/Chapter 2 - Network Topologies and Connections)
+- [[Chapter 2 - Network Topologies and Connections]] explores popular networking designs, types, and service provider links. [Docs](1. Networking/Chapter 2 - Network Topologies and Connections)
 - [[Chapter 3 - Ethernet Technology and Virtualization]] introduces you to Ethernet standards and technologies, cable types, and virtual networking concepts.
 - [[Chapter 4 - Understanding IPv4 and IPv6 Addressing]] introduces you to both IPv4 and IPv6 addressing structures and the types of IP addresses found on a network.
 - [[Chapter 5 - Applied IPv4 Subnetting]] introduces you to IPv4 subnetting and applying **Variable Length Subnet Masking** (**VLSM**) on a network.
