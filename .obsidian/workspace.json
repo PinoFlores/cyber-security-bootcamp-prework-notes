@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.5
   },
   "right": {
     "id": "fb945c77e4a1ea96",
@@ -154,11 +154,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d9d20e8e4752fad",
+  "active": "210866296afd784c",
   "lastOpenFiles": [
+    "1. Networking/Chapter 18 - Practice Exam.md",
+    "README.md",
+    "1. Networking/Chapter 17 - Network Troubleshooting.md",
+    "1. Networking/Chapter 16 - Implementing Network Security.md",
+    "1. Networking/Chapter 15 - Exploring Cyberattacks and Threats.md",
+    "1. Networking/Chapter 14 - Network Security Concepts.md",
+    "1. Networking/Chapter 12 - Organizational Documents and Policies.md",
+    "1. Networking/Chapter 13 - High Availability and Disaster Recovery.md",
+    "1. Networking/Chapter 10 - Exploring Wireless Standards and Technologies.md",
+    "1. Networking/Chapter 11 - Assuring Network Availability.md",
+    "1. Networking/Chapter 8 - Networking Devices.md",
+    "1. Networking/Chapter 9 - Routing and Switching Concepts.md",
+    "1. Networking/Chapter 7 - Data Center Architecture and Cloud Computing.md",
+    "1. Networking/Chapter 4 - Understanding IPv4 and IPv6 Addressing.md",
+    "1. Networking/Chapter 5 - Applied IPv4 Subnetting.md",
+    "1. Networking/Chapter 6 - Exploring Network Protocols and Services.md",
     "2. LInux",
     "1. Networking/Chapter 3 - Ethernet Technology and Virtualization.md",
-    "README.md",
     "1. Networking/Chapter 2 - Network Topologies and Connections.md",
     "1. Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md",
     "1. Networking"
