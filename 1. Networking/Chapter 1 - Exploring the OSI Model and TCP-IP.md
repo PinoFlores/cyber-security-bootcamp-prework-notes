@@ -27,6 +27,10 @@ A network protocol is simply the **rules and guidelines** that are used by a dev
 There are many network protocols, each of which has a different purpose and characteristic.
 
 
+#### TCP/IP Quick notes
+
+**TCP/IP** is considered to be the universal language of communication within the networking industry.
 
 
-#network #protocol #tcp/ip #osi #model 
+
+#network #protocol #TCP/IP #OSI #model 
