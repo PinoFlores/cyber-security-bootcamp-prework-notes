@@ -2,4 +2,8 @@
 
 All my prework notes studies here.
 
+## Todos
+- Networking
+- 
+
 
