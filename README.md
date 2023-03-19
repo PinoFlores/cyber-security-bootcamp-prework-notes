@@ -20,7 +20,7 @@ All my prework notes studies here.
 - [[Chapter 11 - Assuring Network Availability]] introduces you to best practices to ensure the availability and monitoring of network resources and assets.
 - [[Chapter 12 - Organizational Documents and Policies]] focuses on exploring common organizational plans, procedures, and security policies to prevent network and security incidents.
 - [[Chapter 13 - High Availability and Disaster Recovery]] explores high availability concepts to ensure critical network resources are always accessible, and describes disaster recovery concepts.
-- [[Chapter 14 - Network Security Concepts]] 
+- [[Chapter 15 - Exploring Cyberattacks and Threats]] 
 - [[Chapter 15 - Exploring Cyberattacks and Threats]] 
 - [[Chapter 16 - Implementing Network Security]] 
 - [[Chapter 17 - Network Troubleshooting]] 
