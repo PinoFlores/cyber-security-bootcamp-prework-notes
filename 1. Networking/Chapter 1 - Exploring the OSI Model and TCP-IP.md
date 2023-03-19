@@ -13,3 +13,4 @@ This chapter will cover:
 
 
 ### What is a network?
+A network is defined as having two or more computing devices interconnected, using a set of communication protocols (rules) that allow them to share a re
