@@ -24,7 +24,7 @@ A resource can be anything, such as a file, a multiplayer game on an online serv
 
 A network protocol is simply the **rules and guidelines** that are used by a device to allow communication or the exchange of messages from one device to another.
 
-There are many network protocols 
+There are many network protocols, each of which has a different purpose and characteristic.
 
 
 
