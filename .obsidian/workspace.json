@@ -11,12 +11,8 @@
             "id": "210866296afd784c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,12 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 383.5
   },
   "right": {
     "id": "fb945c77e4a1ea96",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,11 +130,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,29 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37add5bd2e6d98b6",
+  "active": "a232c3b8c2a45838",
   "lastOpenFiles": [
-    "README.md",
+    "2. LInux/Untitled.md",
     "1. Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md",
-    "1..md",
-    "1. Networking/Chapter 2 - Network Topologies and Connections.md",
-    "1. Networking/Chapter 18 - Practice Exam.md",
-    "1. Networking/Chapter 17 - Network Troubleshooting.md",
-    "1. Networking/Chapter 16 - Implementing Network Security.md",
-    "1. Networking/Chapter 15 - Exploring Cyberattacks and Threats.md",
-    "1. Networking/Chapter 14 - Network Security Concepts.md",
-    "1. Networking/Chapter 12 - Organizational Documents and Policies.md",
-    "1. Networking/Chapter 13 - High Availability and Disaster Recovery.md",
-    "1. Networking/Chapter 10 - Exploring Wireless Standards and Technologies.md",
-    "1. Networking/Chapter 11 - Assuring Network Availability.md",
-    "1. Networking/Chapter 8 - Networking Devices.md",
-    "1. Networking/Chapter 9 - Routing and Switching Concepts.md",
-    "1. Networking/Chapter 7 - Data Center Architecture and Cloud Computing.md",
-    "1. Networking/Chapter 4 - Understanding IPv4 and IPv6 Addressing.md",
-    "1. Networking/Chapter 5 - Applied IPv4 Subnetting.md",
-    "1. Networking/Chapter 6 - Exploring Network Protocols and Services.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 18 - Practice Exam.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 17 - Network Troubleshooting.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 16 - Implementing Network Security.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 15 - Exploring Cyberattacks and Threats.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 14 - Network Security Concepts.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 13 - High Availability and Disaster Recovery.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 12 - Organizational Documents and Policies.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 11 - Assuring Network Availability.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 10 - Exploring Wireless Standards and Technologies.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 9 - Routing and Switching Concepts.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 8 - Networking Devices.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 7 - Data Center Architecture and Cloud Computing.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 6 - Exploring Network Protocols and Services.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 5 - Applied IPv4 Subnetting.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 4 - Understanding IPv4 and IPv6 Addressing.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 3 - Ethernet Technology and Virtualization.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 2 - Network Topologies and Connections.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 1 - Exploring the OSI Model and TCP-IP.md",
+    "1. Networking/CompTIA Netwroking+/Chapter 18 - Practice Exam.md",
+    "1. Networking/CompTIA Netwroking+/Chapter 17 - Network Troubleshooting.md",
+    "1. Networking/CompTIA Netwroking+/Chapter 16 - Implementing Network Security.md",
+    "1. Networking/CompTIA Netwroking+/Chapter 15 - Exploring Cyberattacks and Threats.md",
+    "1. Networking/CompTIA Netwroking+/Chapter 14 - Network Security Concepts.md",
+    "1. Networking/CompTIA Netwroking+/Chapter 13 - High Availability and Disaster Recovery.md",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Untitled",
+    "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide",
+    "1. Networking/CompTIA Netwroking+",
+    "Untitled",
+    "2. LInux/2.1. Learn Linux Quickly",
+    "2. LInux/2.3. Linux for Networking Professionals",
+    "2. LInux/2.2. Linux Command Line and Shell Scripting Techniques",
     "2. LInux",
-    "1. Networking/Chapter 3 - Ethernet Technology and Virtualization.md",
     "1. Networking"
   ]
 }
