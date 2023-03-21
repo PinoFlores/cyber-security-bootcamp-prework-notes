@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06c51a926704ac7e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "210866296afd784c",
+  "active": "06c51a926704ac7e",
   "lastOpenFiles": [
     "2. LInux/Untitled.md",
     "1. Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md",
