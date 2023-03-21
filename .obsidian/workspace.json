@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06c51a926704ac7e",
+  "active": "210866296afd784c",
   "lastOpenFiles": [
+    "README.md",
     "2. LInux/Untitled.md",
     "1. Networking/Chapter 1 - Exploring the OSI Model and TCP-IP.md",
     "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Chapter 18 - Practice Exam.md",
@@ -192,7 +192,6 @@
     "1. Networking/CompTIA Netwroking+/Chapter 16 - Implementing Network Security.md",
     "1. Networking/CompTIA Netwroking+/Chapter 15 - Exploring Cyberattacks and Threats.md",
     "1. Networking/CompTIA Netwroking+/Chapter 14 - Network Security Concepts.md",
-    "1. Networking/CompTIA Netwroking+/Chapter 13 - High Availability and Disaster Recovery.md",
     "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide/Untitled",
     "1. Networking/CompTIA Netwroking+/N10-008 Certfication Guide",
     "1. Networking/CompTIA Netwroking+",
